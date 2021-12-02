@@ -209,6 +209,14 @@ class Game:
         for object in self.game_objects:
             pyglet.clock.schedule_interval(object.tick, 1. / 60)
         pyglet.app.run()  # all is set, the game can start
-
+    """
+   Event metóda pre spracovanie klávesových výstupov
+   """
+    """
+   Event metóda pre spracovanie klávesových výstupov
+   """
+    """
+   Event metóda pre spracovanie klávesových výstupov
+   """
 "----------- StartGame -----------"
 Game().start()
