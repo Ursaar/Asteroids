@@ -218,5 +218,8 @@ class Game:
     """
    Event metóda pre spracovanie klávesových výstupov
    """
+    """
+   TESTUJEME PUSH
+   """
 "----------- StartGame -----------"
 Game().start()
